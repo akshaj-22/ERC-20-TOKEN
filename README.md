@@ -29,19 +29,19 @@ To interact with the contract, you’ll need:
 
 The GameT token is used as the main currency in a blockchain-based game. Here’s how it works:
 
-# Buying Items:
+### Buying Items:
 Players can use GameT tokens to buy in-game items like weapons, armor, or skins.
 
-# Earning Rewards:
+### Earning Rewards:
 Players earn GameT tokens as rewards for completing quests, challenges, or winning tournaments.
 
-# Trading:
+### Trading:
 Players can trade GameT tokens with each other to buy or sell in-game items or services.
 
-# Access to Special Content:
+### Access to Special Content:
 Players who have a certain amount of GameT tokens can unlock exclusive content, such as special levels or characters.
 
-# Staking for Benefits:
+### Staking for Benefits:
 Players can stake their GameT tokens to gain special perks or early access to new features.
 
 The admin controls the creation of new tokens and can distribute them as rewards or incentives for players. This helps manage the token supply within the game.
