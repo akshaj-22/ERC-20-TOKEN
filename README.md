@@ -1,12 +1,12 @@
-# GameT Token (GT) - ERC20
+# Game Token (GTE) - ERC20
 
-This repository contains the smart contract for **GameT Token (GT)**, an ERC20 token deployed on the Ethereum blockchain. The contract allows for minting tokens and includes an admin role for minting control. It is verified and published on Etherscan.
+This repository contains the smart contract for **Game Token (GTE)**, an ERC20 token deployed on the Ethereum blockchain. The contract allows for minting tokens and includes an admin role for minting control. It is verified and published on Etherscan.
 
 ## Contract Details 📜
-- **Token Name**: GameT
-- **Symbol**: GT
+- **Token Name**: Game
+- **Symbol**: GTE
 - **Decimals**: 18
-- **Total Supply**: 100 GT (initially minted to the deployer/admin)
+- **Total Supply**: 100 GTE (initially minted to the deployer/admin)
 - **Verified and Published Contract**: [Etherscan](https://sepolia.etherscan.io/address/0x8Db336d2A8ab3b76d5884fF897416928741073dB)
 
 ## Key Features ⭐
@@ -27,22 +27,22 @@ To interact with the contract, you’ll need:
 
 ## Use Case
 
-The GameT token is used as the main currency in a blockchain-based game. Here’s how it works:
+The Game token is used as the main currency in a blockchain-based game. Here’s how it works:
 
 ### Buying Items:
-Players can use GameT tokens to buy in-game items like weapons, armor, or skins.
+Players can use Game tokens to buy in-game items like weapons, armor, or skins.
 
 ### Earning Rewards:
-Players earn GameT tokens as rewards for completing quests, challenges, or winning tournaments.
+Players earn Game tokens as rewards for completing quests, challenges, or winning tournaments.
 
 ### Trading:
-Players can trade GameT tokens with each other to buy or sell in-game items or services.
+Players can trade Game tokens with each other to buy or sell in-game items or services.
 
 ### Access to Special Content:
-Players who have a certain amount of GameT tokens can unlock exclusive content, such as special levels or characters.
+Players who have a certain amount of Game tokens can unlock exclusive content, such as special levels or characters.
 
 ### Staking for Benefits:
-Players can stake their GameT tokens to gain special perks or early access to new features.
+Players can stake their Game tokens to gain special perks or early access to new features.
 
 The admin controls the creation of new tokens and can distribute them as rewards or incentives for players. This helps manage the token supply within the game.
 
